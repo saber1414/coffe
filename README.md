@@ -23,7 +23,7 @@ This is a product landing page for a coffee shop
 
 ## Live Demo
 
-[live](https://frank1738.github.io/coffee-shop-project-/)
+[live demo](https://saber1414.github.io/coffe/)
 
 ## Prerequisites
 
@@ -37,7 +37,7 @@ This is a product landing page for a coffee shop
 
 To get a local copy up and running follow these simple example steps.
 
-- copy this link `https://github.com/frank1738/coffee-shop-project-.git`.
+- copy this link `https://saber1414.github.io/coffe/`.
 - get the directory that you want to clone the repository.
 - open the command prompt in this directory.
 - writ git clone and paste the link
@@ -49,9 +49,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Frankline osoro
 
-- GitHub: [@frank1738](https://github.com/frank1738)
-- Twitter: [@frankhiggins08](https://twitter.com/frankhiggins08)
-- LinkedIn: [Frankline Osoro](http://www.linkedin.com/in/frankline-osoro-b526ba18b)
+- GitHub: [@saber1414](https://github.com/saber1414)
 
 ## 🤝 Contributing
 
